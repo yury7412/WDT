@@ -512,12 +512,12 @@ img {
     }
 
     .hero__subtitle {
-        font-size: 27px;
+        font-size: 24px;
         font-weight: 400;
     }
 
     .hero__title {
-        font-size: 40px;
+        font-size: 36px;
         line-height: 1.1;
         margin-bottom: 25px;
         width: auto;
